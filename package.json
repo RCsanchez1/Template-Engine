@@ -1,0 +1,23 @@
+{
+  "name": "template-engine",
+  "version": "1.0.0",
+  "description": "fgbdfhdfd",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RCsanchez1/Template-Engine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RCsanchez1/Template-Engine/issues"
+  },
+  "homepage": "https://github.com/RCsanchez1/Template-Engine#readme"
+}
