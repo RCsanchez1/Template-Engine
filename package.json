@@ -2,7 +2,7 @@
   "name": "template-engine",
   "version": "1.0.0",
   "description": "fgbdfhdfd",
-  "main": "index.js",
+  "main": "app.js",
   "directories": {
     "lib": "lib",
     "test": "test"
