@@ -1,9 +1,13 @@
-# Template-Engine
-Employee-Summary
-Software engineering team generator command line application.
+# Employee-Summary
+ Software engineering team generator command line application.
 
-User Story:
+# User Story:
 As a manager I want to generate a webpage that displays my team's basic info so that I have quick access to emails and GitHub profiles
 
-Demo
-alt text
+# Demo
+
+![alt text](build/demo.gif)
+
+
+
+
